@@ -1,0 +1,8 @@
+#Mongo DB
+mongod --dbpath=D:\Estudo\React-Redux\my-money-app\backend\data\db
+
+#Backend > D:\Estudo\React-Redux\my-money-app\backend
+npm run dev
+
+#Frontend > D:\Estudo\React-Redux\my-money-app\frontend
+npm run dev
